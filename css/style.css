@@ -25,8 +25,12 @@ section {
 }
 
 input {
-    width: 240px;
-    padding: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    color: brown;
+    width: 230px;
+    padding: 2px;
+
     box-shadow: 5px;
     border-radius: 8px;
 
